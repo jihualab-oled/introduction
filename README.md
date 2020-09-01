@@ -4,7 +4,7 @@
  <br/>
 
 关于季华实验室高性能有机电致发光材料团队的介绍。<br/>
-
+![image](https://github.com/jihualab-oled/introduction/blob/master/1598947213(1).jpg)
 
 # introduction
 the introduction of jihualab oled team <br/>
